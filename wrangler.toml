@@ -1,0 +1,11 @@
+name = "highfly-bet-com-es"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=highfly-bet.com.es"
+HMAC_KEY = "e158e6b70c5451ed1988f55108e528faad1b45d7e785fad5dffbbdd8ea2f9c16"
+COOKIE_NAME = "k85"
+PLAY_PATH = "discover"
+BUTTON_ID = "pac2efabbe035fb715f5dbe4968b63fb2"
+GATE_SALT = "f5e523c5d5c9197a"
